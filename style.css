@@ -1,16 +1,23 @@
 body {
-    background-color: rgba(146, 101, 225, 0.9);
+    background-color: rgb(0, 0, 0);
     text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
 
 }
-.goat{background-color: gray;
-    color: white;               /* Cor do texto branca */
+.goat{
+    img{width: 350px;}
+    background-image: url(file:///C:/Users/roger/OneDrive/Desktop/trabalho%20HTML/shaders-bugged-through-the-walls-and-gave-me-a-nice-pic-in-v0-iu1qecunyf981.png);
+    color: rgb(244, 67, 138);
+    background-size: cover;
     width: 50%;              /* Largura da div */
     height: 50%;              /* Altura automática baseada no texto */
     padding: 20px;             /* Espaço interno entre o texto e a borda */
-    margin: 15px;              /* Espaço externo ao redor da div */
-    border-radius: 50px;        /* Bordas arredondadas */
-    box-shadow: 6px 6px 30px rgba(225, 132, 234, 0.914); /* Sombra suave */
-    align-items: center;
+    margin: 15px;              /* Espaço externo ao redor da div */        /* Bordas arredondadas */
+    box-shadow: 15px 15px 70px rgba(243, 117, 222, 0.905); /* Sombra*/
+    border-radius: 125px;
+    border-style:double;
     
 }
