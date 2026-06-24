@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(146, 101, 225, 0.9);
+    text-align: center;
+
+}
+.goat{background-color: gray;
+    color: white;               /* Cor do texto branca */
+    width: 50%;              /* Largura da div */
+    height: 50%;              /* Altura automática baseada no texto */
+    padding: 20px;             /* Espaço interno entre o texto e a borda */
+    margin: 15px;              /* Espaço externo ao redor da div */
+    border-radius: 50px;        /* Bordas arredondadas */
+    box-shadow: 6px 6px 30px rgba(225, 132, 234, 0.914); /* Sombra suave */
+    align-items: center;
+    
+}
