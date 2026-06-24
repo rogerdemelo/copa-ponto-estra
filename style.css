@@ -10,7 +10,9 @@ body {
 .goat{
     img{width: 350px;}
     background-image: url(file:///C:/Users/roger/OneDrive/Desktop/trabalho%20HTML/shaders-bugged-through-the-walls-and-gave-me-a-nice-pic-in-v0-iu1qecunyf981.png);
-    color: rgb(244, 67, 138);
+    h1 {color: rgba(244, 67, 138);}
+    h2{color: rgba(235, 201, 100, 0.852);}
+    h5{color: rgb(112, 0, 32);}
     background-size: cover;
     width: 50%;              /* Largura da div */
     height: 50%;              /* Altura automática baseada no texto */
