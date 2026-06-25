@@ -9,7 +9,7 @@ body {
 }
 .goat{
     img{width: 350px;}
-    background-image: url(file:///C:/Users/roger/OneDrive/Desktop/trabalho%20HTML/shaders-bugged-through-the-walls-and-gave-me-a-nice-pic-in-v0-iu1qecunyf981.png);
+    background-image: url(file:///C:/Users/aluno/Documents/copa-ponto-estra-main/copa-ponto-estra-main/shaders-bugged-through-the-walls-and-gave-me-a-nice-pic-in-v0-iu1qecunyf981.png);
     h1 {color: rgba(244, 67, 138);}
     h2{color: rgba(235, 201, 100, 0.852);}
     h5{color: rgb(112, 0, 32);}
@@ -18,7 +18,7 @@ body {
     height: 50%;              /* Altura automática baseada no texto */
     padding: 20px;             /* Espaço interno entre o texto e a borda */
     margin: 15px;              /* Espaço externo ao redor da div */        /* Bordas arredondadas */
-    box-shadow: 15px 15px 70px rgba(243, 117, 222, 0.905); /* Sombra*/
+    box-shadow: 20px 10px 100px rgba(243, 117, 222, 0.905); /* Sombra*/
     border-radius: 125px;
     border-style:double;
     
